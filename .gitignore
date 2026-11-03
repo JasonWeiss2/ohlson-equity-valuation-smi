@@ -226,6 +226,7 @@ data/*/
 data/Sheets/10govyield.csv
 data/Sheets/BalanceSheet.csv
 data/Sheets/Cashflow.csv
+data/Sheets/IncomeSheet.csv
 
 # Streamlit
 .streamlit/secrets.toml
